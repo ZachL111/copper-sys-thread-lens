@@ -1,0 +1,6 @@
+Package: CopperSysThreadLens
+Type: Package
+Title: CopperSysThreadLens
+Version: 0.1.0
+License: MIT
+Description: Build an R toolkit that studies thread behavior through negative fixtures, with human-readable error snapshots and bounded memory input sets.
